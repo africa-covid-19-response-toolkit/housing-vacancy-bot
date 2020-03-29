@@ -1,0 +1,22 @@
+{
+  "name": "hotel_vacancy",
+  "version": "1.0.0",
+  "description": "Hotel Vacancy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "hotel",
+    "vacancy",
+    "hotelvacancy"
+  ],
+  "author": "sal",
+  "license": "ISC",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "telegraf": "^3.36.0",
+    "telegraf-flow": "^8.3.0"
+  }
+}
