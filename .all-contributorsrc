@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AmanuelChorito",
+      "name": "AmanuelChorito",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/48349483?v=4",
+      "profile": "https://github.com/AmanuelChorito",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Hotel-Vacancy-Telegram-Bot",
+  "projectOwner": "Ethiopia-COVID19",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
