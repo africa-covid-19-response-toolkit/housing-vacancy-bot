@@ -1,9 +1,10 @@
 <div align="center">
+  <img alt="ACRT Housing Bot" src="acrt_19_housing_bot.png" width="650px">
+</div>
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-  <img alt="ACRT Housing Bot" src="acrt_19_housing_bot.png" width="650px">
-</div>
 
 # Hotel-Vacancy-Telegram-Bot
 Telegram Bot for Hotel vacancy update and Registration data will be posted to central unt and updated on dashboard
