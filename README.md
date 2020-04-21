@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="ACRT Housing Bot" src="acrt_19_housing_bot.png" width="650px">
+</div>
+
 # Hotel-Vacancy-Telegram-Bot
 Telegram Bot for Hotel vacancy update and Registration data will be posted to central unt and updated on dashboard
 II. Telegram Bot for Hotel vacancy update and Registration
